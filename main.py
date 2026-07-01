@@ -49,7 +49,6 @@ def menu():
 
         return valid_selections
 
-
 def getPlanet(menuSelections):
     planets = {}
     # Iterate through the list of selections
