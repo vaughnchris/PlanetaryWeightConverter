@@ -1,7 +1,7 @@
 from sys import exit
 import matplotlib.pyplot as plt
 
-
+# HELLO!
 def isInteger(value):
     try:
         int(value)
